@@ -8,7 +8,7 @@
 
 If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
 
-## Setup
+## Setup 
 
 If you haven't already, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScWowsKmEHkGCFQl-IM36JCPknYVdHxKoKFn_ClubupgdaYSg/viewform?usp=header) and join our mailing list. This will keep you up-to-date on the club.
 
